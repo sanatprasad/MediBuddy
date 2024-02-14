@@ -1,6 +1,6 @@
-# Doctor Appointment System
+# MEDIBUDDY - Doctor Appointment System
 
-The Doctor Appointment System is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to schedule appointments with doctors and manage their medical appointments effectively.
+MEDIBUDDY is a web application built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to schedule appointments with doctors and manage their medical appointments effectively.
 
 ## Features
 
